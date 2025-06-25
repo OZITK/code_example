@@ -1,4 +1,6 @@
-Key Features:
+# Code Example
+
+## Key Features:
 - A player character with smooth movement, jumping, and rotation using WSAD, mouse, and Space.
 
 - The player cannot fall off the level but can jump out.
@@ -11,7 +13,7 @@ Key Features:
 
 - Two types of enemies with health-based color change.
 
-Technical Constraints:
+## Technical Constraints:
 - No use of Unity’s NavMesh.
 
 - Singletons, static classes, and global objects are not allowed.
@@ -20,5 +22,5 @@ Technical Constraints:
 
 - Project must include all necessary files and keep the Assets folder under 20MB.
 
-Optional Bonus:
+## Optional Bonus:
 - Add simple enemy movement (e.g., wandering).
